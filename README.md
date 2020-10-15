@@ -1,7 +1,7 @@
 # test for [ramda](https://github.com/ramda/ramda)
 
 The example shows how much time `ramda.uniq` takes to run with more than 1000 items. 
-When the number of items about 2000, it needs around 6 to 7 seconds.
+When the number of items about 2000, it needs around 6 to 8 seconds.
 
 ```
 npx jest ramda.test.js
