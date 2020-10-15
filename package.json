@@ -1,0 +1,24 @@
+{
+  "name": "test-for-ramda",
+  "version": "1.0.0",
+  "description": "",
+  "main": "test.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.20.0",
+    "ramda": "0.27.0",
+    "ramda-0.27.1": "npm:ramda@0.27.1"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.12.0",
+    "@babel/core": "^7.12.0",
+    "@babel/node": "^7.10.5",
+    "@babel/preset-env": "^7.12.0",
+    "babel-jest": "^26.5.2",
+    "jest": "^26.5.3"
+  }
+}
